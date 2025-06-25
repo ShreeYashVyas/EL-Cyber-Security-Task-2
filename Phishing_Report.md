@@ -3,7 +3,7 @@
 
 **Tool Used:** Any.Run / Browser-based Email Analyzer  
 **Detection Date:** 2025-06-25  
-**Analyst:** Shree Yash Vyad
+**Analyst:** Shree Yash Vyas
 
 ---
 
