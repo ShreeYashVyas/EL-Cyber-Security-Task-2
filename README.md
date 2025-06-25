@@ -8,7 +8,7 @@ Elevate Labs task 2 repo
 Identify phishing characteristics from a suspicious email and create an awareness report to help understand social engineering and email spoofing tactics.
 
 ## 🛠 Tools Used
-- Sample Phishing Email (self-written)
+- Sample Phishing Email 
 - Email Header Analyzer (like mxtoolbox.com, Google Apps toolbox)
 - Whois Lookup
 - Common Sense 🙂
@@ -26,7 +26,8 @@ Identify phishing characteristics from a suspicious email and create an awarenes
 - `phishing_email.txt`: Copy of the phishing email content.
 - `phishing_analysis_report.md`: Detailed phishing traits and breakdown.
 - `README.md`: This file.
-
+- ``: Proof of phishing from "Virus Total".
+- 
 ## ✅ Outcome
 Enhanced understanding of:
 - Email spoofing
