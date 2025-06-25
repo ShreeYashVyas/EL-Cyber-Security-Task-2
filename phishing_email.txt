@@ -1,0 +1,13 @@
+From: support@amaz0n-billing.com
+Subject: Urgent: Your Amazon Account is on Hold!
+
+Dear Customer,
+
+We detected unusual activity in your account. For your security, please verify your information.
+
+Click here to confirm: http://amaz0n-verification.com/verify
+
+Failure to act within 24 hours will result in permanent suspension of your account.
+
+Thank you,
+Amazon Security Team
